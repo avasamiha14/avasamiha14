@@ -34,7 +34,8 @@ with a strong interest in AI, Machine Learning, and Cybersecurity.
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinhere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiha-ava)
+
 
 ---
 ⭐ *"Every expert was once a beginner."*!--
