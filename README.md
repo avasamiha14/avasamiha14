@@ -1,7 +1,7 @@
 <# Hi there, I'm Mysha Samiha Ava! 👋
 
 🎓 B.Sc. in Electrical & Electronic Engineering @ AUST  
-⚡ Year 1 | Semester 1  
+⚡ Year 2 | Semester 1  
 🌍 Dhaka, Bangladesh  
 
 ---
